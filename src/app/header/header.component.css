@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
